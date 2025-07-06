@@ -1,0 +1,6 @@
+[submodule "springOneFront"]
+	path = springOneFront
+	url = https://github.com/JupitorCentral/springOneFront.git
+[submodule "springOneBackend"]
+	path = springOneBackend
+	url = https://github.com/JupitorCentral/springOneBackend.git
